@@ -6,8 +6,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
-    "whatwg-fetch": "1.0.0",
-    "growl": ">=1.10.0"
+    "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.16.0",
@@ -26,7 +25,7 @@
     "eslint-watch": "2.1.14",
     "express": "^4.16.4",
     "extract-text-webpack-plugin": "1.0.1",
-    "growl": ">=1.10.0",
+    "growl": "^1.10.5",
     "html-webpack-plugin": "2.22.0",
     "jsdom": "9.8.0",
     "json-schema-faker": "^0.4.7",
